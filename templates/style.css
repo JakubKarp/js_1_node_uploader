@@ -1,0 +1,22 @@
+body {
+	background: #836c6c
+}
+.div_main {
+	background: #00a7ff;
+	width: 600px;
+	height: 200px;
+	margin: 0 auto;
+	padding: 30px
+}
+h1 {
+	color: white;
+	text-align: center;
+
+}
+form {
+	text-align: center;
+	color: 	white
+}
+input {
+	margin: 10px
+}
